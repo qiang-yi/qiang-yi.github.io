@@ -44,17 +44,10 @@
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 63,
-    "versionPublish": "5.2.0",
+    "versionPublish": "4.10.8",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/uh-logo2-128x127.png",
-    "noImageResize": "",
-    "imageResize": true,
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
-    "cookiesAlert": false,
-    "gdpr": false
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
